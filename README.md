@@ -1,1 +1,1 @@
-Simple vooking app built with react
+Simple vooking app UI built with react
