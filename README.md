@@ -1,1 +1,3 @@
-Simple vooking app UI built with react
+Simple Mini React Project.
+
+Booking.com Clone in React js
